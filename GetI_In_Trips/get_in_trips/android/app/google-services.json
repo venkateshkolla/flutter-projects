@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "762145234409",
+    "project_id": "get-in-trips",
+    "storage_bucket": "get-in-trips.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762145234409:android:02bb09fbe3e11b2d533f78",
+        "android_client_info": {
+          "package_name": "com.example.get_in_trips"
+        } 
+      },
+      "oauth_client": [
+        {
+          "client_id": "762145234409-j2ciq730aidgj50ckkaj6i836d8j49at.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.get_in_trips",
+            "certificate_hash": "89a5d840996a2650047d1ad78608d401ca33c58b"
+          }
+        },
+        {
+          "client_id": "762145234409-f7a28mr0ib1painp2denmq694kte859n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRXzA7yGIQdSbvfy0Iao5v67qGRLCarLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762145234409-f7a28mr0ib1painp2denmq694kte859n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
